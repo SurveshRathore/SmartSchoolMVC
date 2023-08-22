@@ -1,0 +1,42 @@
+﻿@model ModelLayer.Model.StudentModel
+
+@{
+    ViewData["Title"] = "StudentReg";
+}
+<link href="~/css/studentregister.css" rel="stylesheet" />
+<div class="regPage">
+    <div class="regContent">
+        <h1 class="text-center"> Smart School App</h1>
+
+        <div>
+            Student Registration
+            
+        </div>
+        <form asp-action="StudentReg">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailID" class="control-label"></label>
+                <input asp-for="EmailID" class="form-control" />
+                <span asp-validation-for="EmailID" class="text-danger"></span>
+            </div>
+
+            <div class="buttonContent">
+                <input type="submit" value="Register" class="submitButton"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
