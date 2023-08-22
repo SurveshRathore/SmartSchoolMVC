@@ -1,0 +1,22 @@
+﻿body {
+}
+
+.regPage {
+    border: 1px solid red;
+    background: #ffcd87;
+    height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.regContent {
+    border: 1px solid tomato;
+    height: 80%;
+    width: 70%;
+}
+
+.buttonContent{
+    margin-bottom: 20px;
+}

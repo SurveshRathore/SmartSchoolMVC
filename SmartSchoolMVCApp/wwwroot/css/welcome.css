@@ -1,0 +1,23 @@
+﻿body {
+}
+
+.welcomePage {
+    border: 1px solid red;
+    background-image: url("~/Assest/schl.jpg");
+    /*background-color: yellowgreen;*/
+}
+
+img{
+    position: absolute;
+    z-index: -1;
+    left: 0px;
+    top: 0px;
+    width:100vw;
+    height: 100vh;
+}
+
+h1{
+    color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 400px;
+}
