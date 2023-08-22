@@ -1,0 +1,10 @@
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.deps.json
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.AssemblyReference.cache
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfoInputs.cache
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfo.cs
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.CoreCompileInputs.cache
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.dll
+D:\dotnet\SmartSchoolMVCApp\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.pdb

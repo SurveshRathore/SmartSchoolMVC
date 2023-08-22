@@ -1,0 +1,15 @@
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\bin\Debug\netcoreapp3.1\RepoLayer.dll
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\bin\Debug\netcoreapp3.1\RepoLayer.pdb
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\dotnet\SmartSchoolMVCApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

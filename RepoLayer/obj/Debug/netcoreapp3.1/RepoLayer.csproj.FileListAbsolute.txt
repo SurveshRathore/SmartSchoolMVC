@@ -1,0 +1,13 @@
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.deps.json
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.dll
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\bin\Debug\netcoreapp3.1\RepoLayer.pdb
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.csproj.AssemblyReference.cache
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.AssemblyInfoInputs.cache
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.AssemblyInfo.cs
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.csproj.CoreCompileInputs.cache
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.csproj.CopyComplete
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.dll
+D:\dotnet\SmartSchoolMVCApp\RepoLayer\obj\Debug\netcoreapp3.1\RepoLayer.pdb

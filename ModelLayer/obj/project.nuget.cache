@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MH04qxXuBDhCv0hssley2a0cxv4ndORAn1LOQzkrq0SThosqOImAN+0t1Po6XgFcApWvyWfsHDqSTAoZ2JP+Ng==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\SmartSchoolMVCApp\\ModelLayer\\ModelLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rathour\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Rathour\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Rathour\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Rathour\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Rathour\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Rathour\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
